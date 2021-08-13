@@ -1,6 +1,7 @@
 ## Olá! Eu sou o William Ferreira! 
 
-🌱 Study recently about React and Node.js
+🌱 Study recently about React and Node.js 
+
 📫 How to find me: williamcarloscontas@gmail.com
 
 <div>
