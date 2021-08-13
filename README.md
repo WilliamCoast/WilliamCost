@@ -2,6 +2,8 @@
 
 🌱 Study recently about React and Node.js 
 
+🎯 Focusing on front-end
+ 
 📫 How to find me: williamcarloscontas@gmail.com
 
 <div>
