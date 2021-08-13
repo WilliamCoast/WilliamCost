@@ -1,8 +1,7 @@
 ## Olá! Eu sou o William Ferreira! 
 
-
-- 🌱 Estudando Linguagens Front-end
-
+🌱 Study recently about React and Node.js
+📫 How to find me: williamcarloscontas@gmail.com
 
 <div>
   <a href="https://beacons.ai/WilliamCost">
