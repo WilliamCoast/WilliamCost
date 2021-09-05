@@ -1,6 +1,6 @@
 ## Olá! Eu sou o William Ferreira! 
 
-🌱 Study recently about React and Node.js 
+🌱 Study recently about React, Node.js  and PHP
 
 🎯 Focusing on front-end
  
